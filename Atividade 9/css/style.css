@@ -2,25 +2,22 @@
 
 body {
 
+    margin: 72px 0;
     background-color: #181818;
     font-family: 'Roboto', sans-serif;
-    margin: 72px 0;
-
 }
 
-.page-title {
-
-    color: rgb(236, 54, 78);
+.page-titulo {
+    
     padding-left: 64px;
     margin-bottom: 6px;
-
+    color: rgb(236, 54, 78);
 }
 
-.page-description {
+.page-descricao {
 
-    padding-left: 64px;
     color: rgba(255, 255, 255, 0.6);
-
+    padding-left: 64px;
 }
 
 .video {
@@ -58,7 +55,7 @@ body {
 
 }
 
-.video-time {
+.video-tempo {
 
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
@@ -70,7 +67,7 @@ body {
 
 }
 
-.video-description {
+.video-descricao {
 
     color: rgba(255, 255, 255, 0.6);
     margin: 0;
@@ -85,7 +82,7 @@ body {
 
 }
 
-.video-date {
+.video-data {
 
     text-align: right;
     display: block;
@@ -94,7 +91,7 @@ body {
 
 }
 
-.video-title {
+.video-titulo {
 
     margin: 8px 0 12px;
     color: white;
